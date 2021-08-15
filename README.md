@@ -3,9 +3,12 @@
 <p align=center >Fowzan Chicken House is an actual practical build of an application website to ease on variouse factors to deal with delivery and satisfaction working to make it presentable for a client,<br> 15th August 2021</p>
 
 ==========================================================================================================
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freestyletear" alt="freestyletear github profile trophy's" /></a> </p>
 
-[![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Keith_James_Akan_Name_Generator)](https://freestyletear.github.io/fowzan-chicken-house/issues)
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freestyletear&theme=monokai" alt="freestyletear github profile trophy's" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freestyletear" alt="freestyletear github profile trophy's" /></a> </p> -->
+
+<!-- [![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Keith_James_Akan_Name_Generator)](https://freestyletear.github.io/fowzan-chicken-house/issues) -->
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ef83406b-608e-458d-aac0-52ae9b1fafde/deploy-status)](https://app.netlify.com/sites/fowzan-chicken-house-0d747/deploys)
 
