@@ -10,7 +10,7 @@
 
 <!-- [![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Keith_James_Akan_Name_Generator)](https://freestyletear.github.io/fowzan-chicken-house/issues) -->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ef83406b-608e-458d-aac0-52ae9b1fafde/deploy-status)](https://app.netlify.com/sites/fowzan-chicken-house-0d747/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dfccb92-4f7c-4918-a603-f6df42a34589/deploy-status)](https://app.netlify.com/sites/fowzanchickenhouse-62507a/deploys)
 
 ---
 
