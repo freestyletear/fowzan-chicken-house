@@ -110,9 +110,25 @@ html {
 #mainNav-bar .col-xs-2.col-md-2 .card-body {
     display: flex;
     justify-content: space-between;
+    margin-right: 40px;
 }
 #mainNav-bar .card .row {
     align-items: center;
+}
+a i.fas.fa-rocket.bring-to-top {
+    position: fixed;
+    z-index: 1;
+    color: #FF9230;
+    font-size: 50px;
+    margin-top: 600px;
+    /* margin-right: -30px; */
+}
+#arrowDown .col-xs-12.col-md-12 .card-body a {
+    margin-left: 50%;
+    font-size: 50px;
+    position: absolute;
+    margin-top: -50px;
+    color: #FF9230;
 }
 /* MAIN */
 main {
@@ -292,6 +308,30 @@ iframe {
     box-shadow: -8px -1px 8px rgba(4,9,30,0.5);
     border-bottom-style: groove;
 }
+
+
+
+.item {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.btn-pay {
+    background-color: #C800Da;
+    border: 0;
+    color: #fff;
+    font-weight: 600;
+}
+
+.fa-ticket {
+    color: #0e1fa1;
+}
+
+
+
+
+
 /* Media Query */
 /* @media only screen and (max-width: 1189px) {
     #course-col {
